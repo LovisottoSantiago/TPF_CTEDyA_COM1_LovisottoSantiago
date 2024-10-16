@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5QW20uxqkG0=",
+  "dgSpecHash": "1K7v7UkWuC4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\tpfinal.csproj",
+  "projectFilePath": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\tpfinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lovidev\\.nuget\\packages\\textfieldparserstandard\\1.0.0\\textfieldparserstandard.1.0.0.nupkg.sha512",
     "C:\\Users\\Lovidev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",

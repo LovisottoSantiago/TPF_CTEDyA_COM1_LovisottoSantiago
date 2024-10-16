@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\",
+  "WorkspaceRootPath": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\desktop\\tpfinal_vs_base\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\desktop\\tpfinal_vs_base\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\desktop\\tpfinal_vs_base\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\desktop\\tpfinal_vs_base\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\desktop\\tpfinal_vs_base\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\desktop\\tpfinal_vs_base\\estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,89 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Inicio.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Inicio.cs",
-              "RelativeDocumentMoniker": "Inicio.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Inicio.cs [Design]",
-              "RelativeToolTip": "Inicio.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T00:42:50.329Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Form3.cs [Design]",
-              "RelativeToolTip": "Form3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T00:42:49.464Z",
-              "EditorCaption": " [Design]"
+              "Title": "dataset.csv",
+              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\dataset.csv",
+              "RelativeDocumentMoniker": "dataset.csv",
+              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\dataset.csv",
+              "RelativeToolTip": "dataset.csv",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-09T23:27:44.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Form2.cs [Design]",
-              "RelativeToolTip": "Form2.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Estrategia.cs",
+              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Estrategia.cs",
+              "RelativeDocumentMoniker": "Estrategia.cs",
+              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Estrategia.cs",
+              "RelativeToolTip": "Estrategia.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T00:42:47.435Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-09T22:05:26.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Utils.cs",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Utils.cs",
-              "RelativeDocumentMoniker": "Utils.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Utils.cs",
-              "RelativeToolTip": "Utils.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxEAAAAJAAAAAAAAAA==",
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\MinHeap.cs",
+              "RelativeDocumentMoniker": "MinHeap.cs",
+              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\MinHeap.cs",
+              "RelativeToolTip": "MinHeap.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T00:36:17.331Z",
+              "WhenOpened": "2024-10-09T21:53:27.502Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Form3.Designer.cs",
-              "RelativeDocumentMoniker": "Form3.Designer.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Form3.Designer.cs",
-              "RelativeToolTip": "Form3.Designer.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAtwIcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T00:36:13.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T00:36:10.514Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Estrategia.cs",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Estrategia.cs",
-              "RelativeDocumentMoniker": "Estrategia.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Desktop\\TPFinal_vs_base\\Estrategia.cs",
-              "RelativeToolTip": "Estrategia.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA9wCEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T00:33:08.732Z"
             }
           ]
         }

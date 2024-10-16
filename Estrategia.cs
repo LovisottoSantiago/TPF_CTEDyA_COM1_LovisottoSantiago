@@ -38,8 +38,17 @@ namespace tpfinal
         public void ShortesJobFirst(List<Proceso> datos, List<Proceso> collected)
         {
 
-            // Implementar
+            MinHeap minHeap = new MinHeap();
+            minHeap.ConstruirHeap(datos); 
+
+
+            while (!minHeap.EsVacia())
+                {
+                    Proceso proceso = minHeap.Eliminar(); // Extrae el proceso de menor tiempo
+                    collected.Add(proceso); // Agrega el proceso a la lista "collected"
+                }
             
+
         }
 
 
