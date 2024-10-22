@@ -41,7 +41,6 @@ namespace tpfinal
             MinHeap minHeap = new MinHeap();
             minHeap.ConstruirHeap(datos); 
 
-
             while (!minHeap.EsVacia())
                 {
                     Proceso proceso = minHeap.Eliminar(); // Extrae el proceso de menor tiempo
@@ -53,10 +52,16 @@ namespace tpfinal
 
 
         public void PreemptivePriority(List<Proceso> datos, List<Proceso> collected)
-        {
-           
+        {           
         	// Implementar
-        	
+            MaxHeap maxHeap = new MaxHeap();
+        	maxHeap.ConstruirHeap(datos);
+
+            while (!maxHeap.EsVacia()){
+                Proceso proceso = maxHeap.Eliminar();
+                collected.Add(proceso);
+            }
+
         }
         
     }
