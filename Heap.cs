@@ -75,5 +75,20 @@ namespace tpfinal {
         public int Tamaño() {
             return heap.Count - 1; // restar 1 debido al índice 0 ignorado
         }
+
+        //! <!-- METODOS PARA LAS CONSULTAS -->
+        public List<Proceso> ObtenerHojas() {
+            List<Proceso> hojas = new List<Proceso>();
+            int n = Tamaño();
+
+            // Las hojas están en los índices desde (n/2 + 1) hasta n
+            for (int i = n / 2 + 1; i <= n; i++) {
+                hojas.Add(heap[i]); // Acceder a las hojas
+            }
+
+            return hojas;
+        }
+
+
     }
 }

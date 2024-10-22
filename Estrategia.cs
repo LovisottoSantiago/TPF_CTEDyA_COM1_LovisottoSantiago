@@ -12,9 +12,27 @@ namespace tpfinal
 
         public String Consulta1(List<Proceso> datos)
         {
-            string resutl = "Implementar";
+            Heap minHeap = new Heap(false);
+            minHeap.ConstruirHeap(datos); 
 
-            return resutl;
+            Heap maxHeap = new Heap(true);
+            maxHeap.ConstruirHeap(datos); 
+
+            // Obtener las hojas de ambos heaps
+            List<Proceso> hojasMinHeap = minHeap.ObtenerHojas();
+            List<Proceso> hojasMaxHeap = maxHeap.ObtenerHojas();
+
+            string resultado = "Hojas de MinHeap:\n";
+            foreach (var hoja in hojasMinHeap) {
+                resultado += "Nombre: " + hoja.nombre + " (Tiempo: " + hoja.tiempo + ", Prioridad: " + hoja.prioridad + ")\n";
+            }
+            
+            resultado += "\nHojas de MaxHeap:\n";
+            foreach (var hoja in hojasMaxHeap) {
+                resultado += "Nombre: " + hoja.nombre + " (Tiempo: " + hoja.tiempo + ", Prioridad: " + hoja.prioridad + ")\n";
+            }
+
+            return resultado;
 
         }
 
