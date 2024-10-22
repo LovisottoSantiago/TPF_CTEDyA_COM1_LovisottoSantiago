@@ -38,7 +38,7 @@ namespace tpfinal
         public void ShortesJobFirst(List<Proceso> datos, List<Proceso> collected)
         {
 
-            MinHeap minHeap = new MinHeap();
+            Heap minHeap = new Heap(false);
             minHeap.ConstruirHeap(datos); 
 
             while (!minHeap.EsVacia())
@@ -54,7 +54,7 @@ namespace tpfinal
         public void PreemptivePriority(List<Proceso> datos, List<Proceso> collected)
         {           
         	// Implementar
-            MaxHeap maxHeap = new MaxHeap();
+            Heap maxHeap = new Heap(true);
         	maxHeap.ConstruirHeap(datos);
 
             while (!maxHeap.EsVacia()){
