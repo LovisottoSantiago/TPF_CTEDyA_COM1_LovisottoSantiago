@@ -77,6 +77,7 @@ namespace tpfinal {
         }
 
         //! <!-- METODOS PARA LAS CONSULTAS -->
+        //* CONSULTA 1
         public List<Proceso> ObtenerHojas() {
             List<Proceso> hojas = new List<Proceso>();
             int n = Tamaño();
@@ -89,17 +90,48 @@ namespace tpfinal {
             return hojas;
         }
 
-        public int Altura(){
-            int tamaño = this.Tamaño();
-            int log = 0;
-            
-            while (tamaño > 1) {
-                tamaño >>= 1; // Desplazar bits a la derecha (equivale a dividir entre 2)
-                log++;
+        //* CONSULTA 2
+        public int Altura() {
+            int n = this.Tamaño();  // Si n= 100. 100 en binario es 1100100
+            int altura = 0; 
+
+            while (n > 1) {
+                n >>= 1;  // Desplazar bits hacia la derecha (dividir entre 2). 
+                altura++;
             }
-            
-            return log;
+
+            return altura;
         }
+
+        //* CONSULTA 3
+        public string ObtenerNiveles(){
+            string resultado = "";
+            int nivelActual = -1;
+            int n = this.Tamaño();
+
+            for (int i = 1; i <= n; i++) {
+                int nivel = 0;
+                int indice = i;
+
+                // Calcular el nivel desplazando bits hasta que el índice sea 1
+                while (indice > 1) {
+                    indice >>= 1;
+                    nivel++;
+                }
+                if (nivel != nivelActual) {
+                    nivelActual = nivel;
+                    resultado += "\nNivel " + nivelActual + ":\n";
+                }
+
+                Proceso proceso = heap[i];
+                resultado += "Proceso: " + proceso.nombre + 
+                            ", Tiempo: " + proceso.tiempo + 
+                            ", Prioridad: " + proceso.prioridad + "\n";
+            }
+
+            return resultado;
+        }
+
 
 
     }

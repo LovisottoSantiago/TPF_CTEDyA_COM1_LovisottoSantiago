@@ -58,9 +58,14 @@ namespace tpfinal
 
         public String Consulta3(List<Proceso> datos)
         {
-            string resutl = "Implementar";
+            Heap minHeap = new Heap(false);
+            minHeap.ConstruirHeap(datos);
+            
+            Heap maxHeap = new Heap(true);
+            maxHeap.ConstruirHeap(datos);
 
-            return resutl;
+            String concatenacion = "Min heap (por tiempo):" + minHeap.ObtenerNiveles() + "\n\n----------------------------------------------\n Max heap (por prioridad):" +maxHeap.ObtenerNiveles();
+            return concatenacion;
         }
 
 
