@@ -21,7 +21,7 @@ namespace tpfinal {
         private void Heapify(int index) {
             int izq = 2 * index; 
             int der = 2 * index + 1; 
-            int extremo = index;
+            int extremo = index; // raiz
 
             if (izq < heap.Count && Comparar(izq, extremo)) 
                 extremo = izq;
@@ -87,6 +87,18 @@ namespace tpfinal {
             }
 
             return hojas;
+        }
+
+        public int Altura(){
+            int tamaño = this.Tamaño();
+            int log = 0;
+            
+            while (tamaño > 1) {
+                tamaño >>= 1; // Desplazar bits a la derecha (equivale a dividir entre 2)
+                log++;
+            }
+            
+            return log;
         }
 
 
