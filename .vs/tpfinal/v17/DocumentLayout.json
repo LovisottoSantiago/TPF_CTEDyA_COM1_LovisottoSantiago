@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\proceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:proceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\lovidev\\documents\\github\\tpf_ctedya_com1_lovisottosantiago\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Proceso.cs",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Proceso.cs",
-              "RelativeDocumentMoniker": "Proceso.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Proceso.cs",
-              "RelativeToolTip": "Proceso.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Heap.cs",
+              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Heap.cs",
+              "RelativeDocumentMoniker": "Heap.cs",
+              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Heap.cs",
+              "RelativeToolTip": "Heap.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAA3wHYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:39:02.38Z",
+              "WhenOpened": "2024-10-23T18:21:52.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dataset.csv",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\dataset.csv",
-              "RelativeDocumentMoniker": "dataset.csv",
-              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\dataset.csv",
-              "RelativeToolTip": "dataset.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-10-09T23:27:44.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Estrategia.cs",
               "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Estrategia.cs",
               "RelativeDocumentMoniker": "Estrategia.cs",
               "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Estrategia.cs",
               "RelativeToolTip": "Estrategia.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAADwvygAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:05:26.045Z",
+              "WhenOpened": "2024-10-23T18:21:45.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MinHeap.cs",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\MinHeap.cs",
-              "RelativeDocumentMoniker": "MinHeap.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\MinHeap.cs",
-              "RelativeToolTip": "MinHeap.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwD8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\TPF_CTEDyA_COM1_LovisottoSantiago\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T21:53:27.502Z",
+              "WhenOpened": "2024-10-23T18:20:31.354Z",
               "EditorCaption": ""
             }
           ]

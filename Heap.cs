@@ -106,10 +106,10 @@ namespace tpfinal {
         //* CONSULTA 3
         public string ObtenerNiveles(){
             string resultado = "";
-            int nivelActual = -1;
+            int nivelActual = -1;  // Variable para rastrear el nivel actual.
             int n = this.Tamaño();
 
-            for (int i = 1; i <= n; i++) {
+            for (int i = 1; i <= n; i++) { // Recorremos los nodos desde 1 hasta n
                 int nivel = 0;
                 int indice = i;
 
@@ -118,11 +118,12 @@ namespace tpfinal {
                     indice >>= 1;
                     nivel++;
                 }
+                // Si el nivel del nodo actual es diferente del nivel anterior, agregamos una nueva línea.
                 if (nivel != nivelActual) {
-                    nivelActual = nivel;
+                    nivelActual = nivel; // Actualizamos el nivel actual.
                     resultado += "\nNivel " + nivelActual + ":\n";
                 }
-
+                // Obtenemos el proceso de la Heap (cambia su orden dependiendo si es max o min heap)
                 Proceso proceso = heap[i];
                 resultado += "Proceso: " + proceso.nombre + 
                             ", Tiempo: " + proceso.tiempo + 
