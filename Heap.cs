@@ -44,7 +44,7 @@ namespace tpfinal {
                 return heap[hijo].tiempo < heap[padre].tiempo; //! tiempo (punto 1)
         }
 
-        public void Insertar(Proceso nuevoProceso) {
+        public void Insertar(Proceso nuevoProceso) { // No lo uso pero es un método básico de las Heap
             heap.Add(nuevoProceso); // agregar al final
             int index = heap.Count - 1;
             while (index > 1 && Comparar(index, index / 2)) { // determina si el proceso en el índice actual tiene una prioridad mayor (o menor, dependiendo de si es un MaxHeap o MinHeap) que el proceso en su posición padre
