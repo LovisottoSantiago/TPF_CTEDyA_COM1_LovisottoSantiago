@@ -10,8 +10,7 @@ namespace tpfinal
     public class Estrategia
     {
 
-        public String Consulta1(List<Proceso> datos)
-        {
+        public String Consulta1(List<Proceso> datos) {
             Heap minHeap = new Heap(false);
             minHeap.ConstruirHeap(datos); 
 
@@ -36,8 +35,7 @@ namespace tpfinal
 
         }
 
-        public String Consulta2(List<Proceso> datos)
-        {
+        public String Consulta2(List<Proceso> datos) {
             Heap minHeap = new Heap(false);
             minHeap.ConstruirHeap(datos);
             
@@ -56,8 +54,7 @@ namespace tpfinal
 
 
 
-        public String Consulta3(List<Proceso> datos)
-        {
+        public String Consulta3(List<Proceso> datos) {
             Heap minHeap = new Heap(false);
             minHeap.ConstruirHeap(datos);
             
@@ -69,8 +66,7 @@ namespace tpfinal
         }
 
 
-        public void ShortesJobFirst(List<Proceso> datos, List<Proceso> collected)
-        {
+        public void ShortestJobFirst(List<Proceso> datos, List<Proceso> collected) {
 
             Heap minHeap = new Heap(false);
             minHeap.ConstruirHeap(datos); 
@@ -85,9 +81,7 @@ namespace tpfinal
         }
 
 
-        public void PreemptivePriority(List<Proceso> datos, List<Proceso> collected)
-        {           
-        	// Implementar
+        public void PreemptivePriority(List<Proceso> datos, List<Proceso> collected) {           
             Heap maxHeap = new Heap(true);
         	maxHeap.ConstruirHeap(datos);
 

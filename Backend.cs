@@ -27,7 +27,7 @@ namespace tpfinal
             
             if (heapOP)
             {
-                (new Estrategia()).ShortesJobFirst(datos, collected);
+                (new Estrategia()).ShortestJobFirst(datos, collected);
             }
             else
             {
