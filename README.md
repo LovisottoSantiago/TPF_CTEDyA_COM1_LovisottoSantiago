@@ -18,11 +18,14 @@ El objetivo principal fue desarrollar una aplicación que permita gestionar proc
 4. **Simulación Gráfica (incluída en el trabajo)**: Visualización del estado de ejecución para 1 o 5 CPUs.
 5. **Reinicio del Sistema (incluída en el trabajo)**: Permite reiniciar la simulación para realizar nuevas configuraciones.
 
-![image](https://github.com/user-attachments/assets/0fb10218-413a-4a03-82cb-f7716adbc060)
-![image](https://github.com/user-attachments/assets/687c197e-8d14-422d-9869-a72d290744b9)
-![image](https://github.com/user-attachments/assets/f6b22328-97ae-49b7-829e-44ba5385b947)
-![image](https://github.com/user-attachments/assets/1a3d9321-b73e-4c4c-be2a-372ec3c909e7)
-![image](https://github.com/user-attachments/assets/48b44f30-1c41-4e11-ab41-c3ef023a31da)
+## Capturas del proyecto
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0fb10218-413a-4a03-82cb-f7716adbc060" alt="Pantalla de Inicio">
+  <img src="https://github.com/user-attachments/assets/687c197e-8d14-422d-9869-a72d290744b9" alt="Selección de Archivo">
+  <img src="https://github.com/user-attachments/assets/f6b22328-97ae-49b7-829e-44ba5385b947" alt="Simulación con 5 CPUs">
+  <img src="https://github.com/user-attachments/assets/1a3d9321-b73e-4c4c-be2a-372ec3c909e7" alt="Consulta 1">
+  <img src="https://github.com/user-attachments/assets/48b44f30-1c41-4e11-ab41-c3ef023a31da" alt="Pantalla de Reinicio">
+</div>
 
 
 ## Implementación
