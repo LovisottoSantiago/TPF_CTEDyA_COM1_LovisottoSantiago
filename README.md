@@ -1,4 +1,4 @@
-# Trabajo Final: Complejidad Temporal, Estructura de Datos y Algoritmos
+# Trabajo Final: Complejidad Temporal, Estructura de Datos y Algoritmos | UNAJ
 
 Este proyecto corresponde al **Trabajo Final** de la materia **"Complejidad Temporal, Estructura de Datos y Algoritmos"** de la **Universidad Nacional Arturo Jauretche**, realizado durante el 2do año de la carrera **Ingeniería en Informática**. Los invito a leer los archivos **"ENUNCIADO, INFORME Y PRESENTACIÓN"**, incluídos en el repositorio.
 
